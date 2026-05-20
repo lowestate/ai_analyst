@@ -1,4 +1,31 @@
 # Корневой репозиторий ИИ-агента по анализу данных
+<table>
+<tr>
+<td valign="middle"><b>Стек:</b></td>
+<td valign="middle">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0B3D3B?style=flat&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle"><b>Механизмы:</b></td>
+<td valign="middle">
+
+![Human-in-the-Loop](https://img.shields.io/badge/Human--in--the--Loop-D32F2F?style=flat)
+![Persistence](https://img.shields.io/badge/Persistence-F57C00?style=flat)
+![Guardrails](https://img.shields.io/badge/Guardrails-1976D2?style=flat)
+![LLM-as-a-Judge](https://img.shields.io/badge/LLM--as--a--Judge-8E24AA?style=flat)
+
+</td>
+</tr>
+</table>
+
 ### [Backend](https://github.com/lowestate/ai_analyst_backend) | [Frontend](https://github.com/lowestate/ai_analyst_frontend)
 
 Загружаете данные или заполняете креды к БД, пишете что хотите исследовать, агент визуализирует результат и дает понятное объяснение результатов.
