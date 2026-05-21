@@ -1,3 +1,6 @@
 .env
 backend
 frontend
+*.drawio
+*.bkp
+tests.xlsx
